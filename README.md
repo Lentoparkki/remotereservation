@@ -253,7 +253,7 @@ https://apimock.lentoparkki.fi/cancel
 | key | fgDeQDIRwerhUn5I | API key. Mock server uses fgDeQDIRwerhUn5I |
 | reservation | 1842582 | our reservation id from /spacereservation. Only own reservations can be cancelled |
 
-
+"Own" as in same collaborator.
 
 ## Successful Response
 
